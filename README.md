@@ -87,5 +87,5 @@ A fully playable version of the classic Tetris game, built using Python and Pyga
 - Managed piece rotation, line clearing, and increasing difficulty  
 - Used Pygame for rendering and user input  
 
-[View the repository](#)
+[View the repository](https://github.com/bewimsical/tetris)
 
