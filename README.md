@@ -39,6 +39,21 @@ A full-stack web application designed to help friends coordinate game nights, ma
 
 ---
 
+### **24 Card Game**
+
+A JavaFX-based implementation of the classic card game "24", where players are given four cards and must use basic arithmetic operations (addition, subtraction, multiplication, and division) to make the total 24. The game is designed with an interactive interface that allows players to input their solutions and receive feedback.  
+
+**Stack:** Java, JavaFX  
+**Highlights:**  
+- Built a user-friendly interface using JavaFX for card selection and operations  
+- Implemented game logic to check if a player’s solution equals 24  
+- Added functionality for hints and full solutions 
+- Focused on clean code and efficient handling of operations  
+
+[View the repository](https://github.com/bewimsical/CSC311_Mod3_CardGame24)
+
+---
+
 ### **Check It Off**  
 A minimalist to-do list app that allows users to create and manage multiple task lists. Users can log in to their profile, add new tasks, and perform actions such as checking off, editing, or deleting tasks. The clean, user-focused design promotes productivity and ease of use.  
 **Stack:** Node.js, Express, MongoDB, HTML/CSS, JavaScript  
