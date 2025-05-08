@@ -89,3 +89,12 @@ A fully playable version of the classic Tetris game, built using Python and Pyga
 
 [View the repository](https://github.com/bewimsical/tetris)
 
+## Connect with Me
+
+I'm always looking to connect with other developers, collaborate on interesting projects, or chat about creative problem solving.
+
+- [Portfolio Website](#)
+- [LinkedIn](https://www.linkedin.com/in/kathleen-wims/)
+- [Codewars](https://www.codewars.com/users/bewimsical)
+
+
