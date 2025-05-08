@@ -34,8 +34,8 @@ A full-stack web application designed to help friends coordinate game nights, ma
 - Contributed to routing, database design, and overall system structure
 - Currently learning React and planning to build a new, modern web-facing front end for Game Night  
 
-[View the client repository]([#](https://github.com/bewimsical/CSC311_FinalProject))
-[View the server repository]([#](https://github.com/bewimsical/GameNightServer))
+[View the client repository](https://github.com/bewimsical/CSC311_FinalProject)  
+[View the server repository](https://github.com/bewimsical/GameNightServer)
 
 ---
 
@@ -61,7 +61,7 @@ A responsive web app that uses The Cocktail DB API to help users search for drin
 - Designed a clean, mobile-friendly interface  
 - Practiced asynchronous programming and error handling  
 
-[View the repository]([#](https://github.com/bewimsical/cocktail-hour))
+[View the repository](https://github.com/bewimsical/cocktail-hour)
 
 ---
 
