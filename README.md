@@ -1,24 +1,31 @@
-# About Me
+<body
+  style="
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, #083c46, #12606b);
+    margin: 0;
+    padding: 0;
+    color: #cbf7f4;
+    font-family: 'Segoe UI', sans-serif;
+  "
+>
+ <div style="max-width: 800px; margin: 30px auto; font-size: 1.1em; line-height: 1.6;">
+  <p>
+    Hi, I’m a developer currently studying Computer Science at Farmingdale State College. I enjoy building full-stack applications from the ground up—bringing together structure, usability, and a bit of creativity along the way. I’ve worked with Spring Boot, Node.js, MySQL, and Azure, and I’m comfortable working across the stack—from backend logic and routing to shaping data models and user experiences.
+  </p>
+  <p>
+    Before I got into tech, I studied integrative neuroscience and spent five years teaching chemistry. I’ve always enjoyed explaining complex ideas and helping others understand them, and that’s something I carry into my coding as well. I’ve always loved art and creating things, so programming feels like the perfect balance of creativity and logic.
+  </p>
+  <p>
+    I also dabble in game development with Python as a hobby—it's a fun way to stretch my creativity and keep learning outside of school and work. Whether I’m building software or helping someone write their first line of code, I aim for clarity, purpose, and something I can be proud of.
+  </p>
 
-Hi, I’m a developer currently studying Computer Science at Farmingdale State College. I enjoy building full-stack applications from the ground up—bringing together structure, usability, and a bit of creativity along the way. I’ve worked with Spring Boot, Node.js, MySQL, and Azure, and I’m comfortable working across the stack—from backend logic and routing to shaping data models and user experiences.
+  <p align="center">
+      <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,py,anaconda,azure,docker,java,spring,idea,maven,mongodb,mysql,postman" />
+    </p>
+  </div>
+</body>  
 
-Before I got into tech, I studied integrative neuroscience and spent five years teaching chemistry. I’ve always enjoyed explaining complex ideas and helping others understand them, and that’s something I carry into my coding as well. I’ve always loved art and creating things, so programming feels like the perfect balance of creativity and logic.
-
-I also dabble in game development with Python as a hobby—it's a fun way to stretch my creativity and keep learning outside of school and work. Whether I’m building software or helping someone write their first line of code, I aim for clarity, purpose, and something I can be proud of.
-
----
-
-# Technical Skills
-
-- **Languages:** Java, JavaScript, Python, HTML, CSS, SQL  
-- **Frameworks & Libraries:** Spring Boot, Node.js  
-- **Databases:** MySQL, MongoDB  
-- **Frontend:** Responsive Design, Web Accessibility, UI/UX Basics  
-- **Backend:** RESTful APIs, Authentication, Routing, Data Modeling  
-- **Tools & Platforms:** Git, GitHub, Azure, Postman  
-- **Other Skills:** Debugging, Project Management, Teaching & Mentoring, Communication
-
----
 
 # Projects
 
