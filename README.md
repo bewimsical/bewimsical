@@ -18,11 +18,18 @@
   </p>
   <p>
     I also dabble in game development with Python as a hobby—it's a fun way to stretch my creativity and keep learning outside of school and work. Whether I’m building software or helping someone write their first line of code, I aim for clarity, purpose, and something I can be proud of.
-  </p>
+  
 
   <p align="center">
       <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,py,anaconda,azure,docker,java,spring,idea,maven,mongodb,mysql,postman" />
     </p>
+
+  </p>
+   <p align="center">
+    &nbsp; <a href="https://www.linkedin.com/in/kathleen-wims/" target="_blank" style="color:#1ad4af;">LinkedIn</a> &nbsp;|
+    &nbsp; <a href="https://bewimsical.github.io/" target="_blank" style="color:#1ad4af;">Portfolio</a> &nbsp;|
+    &nbsp; <a href="https://www.codewars.com/users/bewimsical" target="_blank" style="color:#1ad4af;">Codewars</a><br>
+  </p>
   </div>
 </body>  
 
